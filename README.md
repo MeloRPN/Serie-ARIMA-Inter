@@ -1,3 +1,5 @@
 # Uso de Modelo Arima para previsão do comportamento das ações do Banco Inter - INBR32 - EM CONSTRUÇÃO/MANUTENÇÃO
 
 Trabalho em PRODUÇÃO para disciplina Mineração de Dados Temporais - Prof. Naísses Zoia Lima - Graduação Ciência de Dados Puc Minas
+
+O arquivo v2 é o mais atual.
